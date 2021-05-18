@@ -12,7 +12,7 @@ Website: https://tudorale.github.io/portfolio/<br/>
 Linkedin: https://www.linkedin.com/in/tudor-alexandru-a503321a3/
 
 ### What am I doing right now? 🌱
-I started to learn Redux and other technologies that will help me in the future, I am working on some personal projects such as <a href="https://github.com/tudorale/justtype" target="_blank" rel="noreferrer">JustType</a>, developing extensions, some freelancing and trying to gain experience as much as I can.
+I started to learn Redux and other technologies that will help me in the future, I am working on some personal projects such as <a href="https://github.com/tudorale/typinghub" target="_blank" rel="noreferrer">TypingHub</a>, developing extensions, some freelancing and trying to gain experience as much as I can.
 
 ### Some stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tudorale&theme=react&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
