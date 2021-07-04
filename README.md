@@ -17,4 +17,20 @@ I am learning new technologies such as Redux and right now I am gaining experien
 ### Some stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tudorale&theme=react&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### Some of my skills
+- React JS
+- React-Redux
+- TypeScript
+- JavaScript
+- Git
+- Firebase
+- SCSS
+- And more
+And of course HTML5 and CSS3.
+
+### Softwares that I am using
+- VS Code
+- Figma
+- Adobe Photoshop
+
 ### Cheers! ⚡
