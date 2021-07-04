@@ -26,7 +26,7 @@ I am learning new technologies such as Redux and right now I am gaining experien
 - Firebase
 - SCSS
 - And more
-And of course HTML5 and CSS3.
+- And of course HTML5 and CSS3.
 
 ### Softwares that I am using
 - VS Code
