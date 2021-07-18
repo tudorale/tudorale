@@ -9,7 +9,6 @@ I started in July 2019 to learn Web Development, I started with HTML5 and CSS3 t
 
 ### Where you can find me? 📫
 Website: https://tudorale.github.io/portfolio/<br/>
-Linkedin: https://www.linkedin.com/in/tudor-alexandru-a503321a3/
 
 ### What am I doing right now? 🌱
 I am learning new technologies such as Redux and right now I am gaining experience and doing freelancing.
