@@ -62,11 +62,22 @@ I am learning new technologies such as Next JS or React JS libraries and right n
     </a>
     <a href="https://material-ui.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/tudorale/tudorale/main/assets/mui.png" alt="mui" width="40" height="40"/> 
-    </a>      
+    </a>   
 </div>                                                                                                                        
                                                                                                                            
 
 ### Softwares that I am using
-... soon
+
+<div style="display: flex">
+    <a href="https://www.figma.com/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/tudorale/tudorale/main/assets/figma.svg" alt="figma" width="40" height="40"/> 
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/tudorale/tudorale/main/assets/vscode.png" alt="vs code" width="40" height="40"/> 
+    </a>   
+     <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/tudorale/tudorale/main/assets/photoshop.png" alt="adobe photoshop" width="40" height="40"/> 
+    </a>  
+</div>                                                                                                                        
 
 ### Cheers! ⚡
