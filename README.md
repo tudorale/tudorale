@@ -17,18 +17,14 @@ I am learning new technologies such as Next JS or React JS libraries and right n
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tudorale&theme=react&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Some of my skills
-- React JS
-- React-Redux
-- TypeScript
-- JavaScript
-- Git
-- Firebase
-- SCSS
-- And more
+
+<div style="display: flex">
+    <a href="" target="_blank"> 
+        <img src="" alt="electron" width="40" height="40"/> 
+    </a>
+</div>
 
 ### Softwares that I am using
-- VS Code
-- Figma
-- Adobe Photoshop
+... soon
 
 ### Cheers! ⚡
