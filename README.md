@@ -28,7 +28,7 @@ I am learning new technologies such as Next JS or different React JS libraries a
     <a href="https://www.reactjs.org" target="_blank"> 
         <img src="https://raw.githubusercontent.com/tudorale/tudorale/main/assets/react.png" alt="reactjs" width="50" height="40"/> 
     </a>
-    <a href="https://www.reactjs.org" target="_blank"> 
+    <a href="https://nextjs.org/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/tudorale/tudorale/main/assets/next.png" alt="nextjs" width="50" height="40"/> 
     </a>
     <a href="https://redux.js.org/" target="_blank"> 
