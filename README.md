@@ -11,7 +11,7 @@ I started in July 2019 to learn Web Development, I started with HTML5 and CSS3 t
 Website: https://tudorale.github.io/portfolio/<br/>
 
 ### What am I doing right now? 🌱
-I am learning new technologies such as Next JS or React JS libraries and right now I am gaining experience and doing freelancing.
+I am learning new technologies such as Next JS or different React JS libraries and right now I am gaining experience and doing freelancing.
 
 ### Some stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tudorale&theme=react&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -26,7 +26,10 @@ I am learning new technologies such as Next JS or React JS libraries and right n
         <img src="https://raw.githubusercontent.com/tudorale/tudorale/main/assets/typescript.png" alt="typescript" width="50" height="40"/> 
     </a>
     <a href="https://www.reactjs.org" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/tudorale/tudorale/main/assets/react.png" alt="react" width="60" height="40"/> 
+        <img src="https://raw.githubusercontent.com/tudorale/tudorale/main/assets/react.png" alt="reactjs" width="60" height="40"/> 
+    </a>
+    <a href="https://www.reactjs.org" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/tudorale/tudorale/main/assets/next.png" alt="nextjs" width="60" height="40"/> 
     </a>
     <a href="https://redux.js.org/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/tudorale/tudorale/main/assets/redux.png" alt="redux" width="50" height="40"/> 
