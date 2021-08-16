@@ -26,10 +26,10 @@ I am learning new technologies such as Next JS or different React JS libraries a
         <img src="https://raw.githubusercontent.com/tudorale/tudorale/main/assets/typescript.png" alt="typescript" width="50" height="40"/> 
     </a>
     <a href="https://www.reactjs.org" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/tudorale/tudorale/main/assets/react.png" alt="reactjs" width="60" height="40"/> 
+        <img src="https://raw.githubusercontent.com/tudorale/tudorale/main/assets/react.png" alt="reactjs" width="50" height="40"/> 
     </a>
     <a href="https://www.reactjs.org" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/tudorale/tudorale/main/assets/next.png" alt="nextjs" width="60" height="40"/> 
+        <img src="https://raw.githubusercontent.com/tudorale/tudorale/main/assets/next.png" alt="nextjs" width="50" height="40"/> 
     </a>
     <a href="https://redux.js.org/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/tudorale/tudorale/main/assets/redux.png" alt="redux" width="50" height="40"/> 
