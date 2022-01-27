@@ -11,7 +11,7 @@ I started in July 2019 to learn Web Development, I started with HTML5 and CSS3 t
 Website: https://tudoralexandru.vercel.app/<br/>
 
 ### What am I doing right now? 🌱
-I am learning new technologies such as Next JS or different React JS libraries and right now I am gaining experience and doing freelancing.
+Getting experience in this field, learning new stuff and doing freelancing :)
 
 ### Some stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tudorale&theme=react&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
