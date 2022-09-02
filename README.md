@@ -1,4 +1,4 @@
-## Hi there 👋, I am Tudor Alexandru, a Front-End Developer who enjoys React JS
+## Hi there 👋, I am Tudor Alexandru, a Front-End Developer who enjoys JS libraries!
 
 <span class="badge-buymeacoffee">
 <a href="https://www.buymeacoffee.com/tudoralexandru" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-blueviolet?style=flat-square" alt="Buy Me A Coffee donate button" /></a>
@@ -9,9 +9,10 @@ I started in July 2019 to learn Web Development, I started with HTML5 and CSS3 t
 
 ### Where you can find me? 📫
 Website: https://tudoralexandru.vercel.app/<br/>
+Twitter: https://twitter.com/examplesol
 
 ### What am I doing right now? 🌱
-Getting experience in this field, learning new stuff and doing freelancing :)
+Getting experience in this field, doing freelancing, side projects and playing with NFTs and crypto.
 
 ### Some stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tudorale&theme=react&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
