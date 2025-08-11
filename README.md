@@ -2,7 +2,6 @@
 ### Some stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tudorale&theme=react&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Tudorale's GitHub stats](https://github-readme-stats.vercel.app/api?username=tudorale&show_icons=true&theme=react&hide_border=true&layout=compact)
 
 ### Some of my skills
 
